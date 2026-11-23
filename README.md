@@ -1,11 +1,8 @@
 # ONVIFCameraScanner （见源码内 VERSION 常量）
 
-> **一句话**：ONVIFCameraScanner —— 一个用 Python 写的 Windows 桌面程序，
+> **一句话**：网络摄像头全协议扫描器 v6：同时探测 ONVIF、GB28181 与 MJPEG 三类设备，列出 IP、厂商、型号与取流地址，支持 PTZ 云台控制。装监控时批量摸清内网有几台摄像头、分别开在哪个端口用。
+>
 > 主程序为 `ONVIFCameraScanner.py`，界面技术栈 tkinter（Python 自带 GUI，无需额外安装）。
->
-> **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
->
-> **解决什么问题**：把这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
 
 ---
 
